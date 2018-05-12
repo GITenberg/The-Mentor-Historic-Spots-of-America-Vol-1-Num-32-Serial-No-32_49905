@@ -1,10 +1,16 @@
 _repo: The-Mentor-Historic-Spots-of-America-Vol-1-Num-32-Serial-No-32_49905
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49905-h/images/cover.jpg
 creator:
   author:
     agent_name: McElroy, Robert McNutt
     gutenberg_agent_id: '45605'
     url: http://www.gutenberg.org/2009/agents/45605
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49905#The-Mentor-Historic-Spots-of-America-Vol-1-Num-32-Serial-No-32
 gutenberg_issued: '2015-09-07'
 gutenberg_type: Text
 identifiers:
