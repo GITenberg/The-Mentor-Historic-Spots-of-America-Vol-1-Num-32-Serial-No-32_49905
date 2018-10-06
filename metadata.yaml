@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Mentor: Historic Spots of America, Vol. 1, Num. 32, Serial No. 32'
 url: http://www.gutenberg.org/ebooks/49905
